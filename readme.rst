@@ -44,6 +44,13 @@ Examples below use ``TANGENT`` and ``PIXEL`` passes to show the curve fit.
    :target: https://github.com/ideasman42/raster-retrace-samples/blob/master/output/old_guitarist.svg
 
 
+Get started
+===========
+- Install Rust: https://www.rust-lang.org/en-US/install.html
+- Clone the repository
+- Run ``cargo build --release``
+- Run ``./target/release/raster-retrace -i <your-input-file>.ppm -o <your-output>.svg -m CENTER``
+
 
 Usage
 =====
